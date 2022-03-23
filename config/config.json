@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD2ED65b30036444D5D939Ed3792C8401f59d7387",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd2ed65b30036444d5d939ed3792c8401f59d7387",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Meta Mechs",
+  "SYMBOL": "Meta Mech",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection",
+  "SHOW_BACKGROUND": false
+}
